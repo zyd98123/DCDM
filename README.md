@@ -13,7 +13,6 @@ After the article is published, the code will be organized and made publicly ava
 # Results
 ![image](https://github.com/user-attachments/assets/b011284d-6ee8-48f1-9d04-76d31aec7a8a)
 
-![image](https://github.com/user-attachments/assets/10542772-c6f0-454c-ad29-ccbe41494a74)
 
 
 
